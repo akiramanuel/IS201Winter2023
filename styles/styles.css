@@ -1,0 +1,52 @@
+p{
+    font-weight: bold;
+    font-size: 50px;
+    font-style: italic;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#top{
+    text-decoration: underline;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+}
+
+h1{
+    color:darkslategrey;
+    font-style: italic;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h2{
+    color:darkolivegreen;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+p{
+    font-size: 20px;
+    font-family:cursive
+
+}
+
+.emphasizedText{
+    font-style: italic;
+    color: orange;
+}
+
+body{
+    background-color: whitesmoke;
+    font-family:Arial, Helvetica, sans-serif ;
+    margin: 20px;
+    padding: 35px;
+    text-align: center;
+    margin-trim:all;
+}
+ol{
+    list-style-position: inside;
+
+}
+
+ul{
+    list-style-position: inside;
+}
